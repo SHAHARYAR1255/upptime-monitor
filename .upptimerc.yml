@@ -8,10 +8,10 @@ sites:
     url: https://zealous-pebble-0690ccb1e.azurestaticapps.net/
   - name: Mining Site
     url: https://mining-server.azurewebsites.net/
-  - name: Mining
-    url: https://zealous-pebble-0690ccb1e.azurestaticapps.net/
-  - name: Mining Site
-    url: https://mining-server.azurewebsites.net/
+  - name: Mernday
+    url: https://mernday.tech/
+  - name: Mernday (www)
+    url: https://www.mernday.tech/
 
 
 status-website:
