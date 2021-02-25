@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 158,
-    "timeWeek": 96,
+    "timeDay": 149,
+    "timeWeek": 102,
     "timeMonth": 124,
     "timeYear": 124,
     "dailyMinutesDown": {}
@@ -22,18 +22,20 @@
     "url": "https://mining-server.azurewebsites.net/",
     "icon": "https://favicons.githubusercontent.com/mining-server.azurewebsites.net",
     "slug": "mining-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 182,
-    "timeWeek": 118,
-    "timeMonth": 133,
-    "timeYear": 133,
-    "dailyMinutesDown": {}
+    "time": 159,
+    "timeDay": 727,
+    "timeWeek": 215,
+    "timeMonth": 159,
+    "timeYear": 159,
+    "dailyMinutesDown": {
+      "2021-02-25": 0
+    }
   },
   {
     "name": "Mernday",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 251,
-    "timeDay": 251,
-    "timeWeek": 251,
-    "timeMonth": 251,
-    "timeYear": 251,
+    "time": 237,
+    "timeDay": 210,
+    "timeWeek": 237,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-24": 53,
+      "2021-02-25": 17,
+      "2021-02-24": 1440,
       "2021-02-23": 480
     }
   }
