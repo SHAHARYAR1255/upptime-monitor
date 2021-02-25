@@ -1,7 +1,7 @@
 url: https://mining-server.azurewebsites.net/
-status: up
-code: 200
-responseTime: 169
-lastUpdated: 2021-02-24T23:10:33.292Z
+status: down
+code: 503
+responseTime: 1285
+lastUpdated: 2021-02-25T00:16:51.092Z
 startTime: Tue Feb 02 2021 10:23:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
