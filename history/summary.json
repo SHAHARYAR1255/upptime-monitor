@@ -4,19 +4,19 @@
     "url": "https://zealous-pebble-0690ccb1e.azurestaticapps.net/",
     "icon": "https://favicons.githubusercontent.com/zealous-pebble-0690ccb1e.azurestaticapps.net",
     "slug": "mining",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.94%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.95%",
     "time": 170,
-    "timeDay": 185,
-    "timeWeek": 200,
-    "timeMonth": 216,
+    "timeDay": 181,
+    "timeWeek": 196,
+    "timeMonth": 214,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2021-04-23": 14,
+      "2021-04-23": 0,
       "2021-03-16": 61
     }
   },
@@ -64,11 +64,11 @@
     "icon": "https://favicons.githubusercontent.com/www.mernday.tech",
     "slug": "mernday-www",
     "status": "up",
-    "uptime": "95.32%",
+    "uptime": "95.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.32%",
+    "uptimeYear": "95.34%",
     "time": 210,
     "timeDay": 103,
     "timeWeek": 213,
@@ -95,7 +95,7 @@
     "time": 321,
     "timeDay": 336,
     "timeWeek": 311,
-    "timeMonth": 289,
+    "timeMonth": 291,
     "timeYear": 321,
     "dailyMinutesDown": {
       "2021-03-19": 21,
@@ -116,7 +116,7 @@
     "time": 342,
     "timeDay": 311,
     "timeWeek": 267,
-    "timeMonth": 308,
+    "timeMonth": 309,
     "timeYear": 342,
     "dailyMinutesDown": {
       "2021-03-19": 21,
@@ -137,7 +137,7 @@
     "time": 378,
     "timeDay": 510,
     "timeWeek": 375,
-    "timeMonth": 347,
+    "timeMonth": 348,
     "timeYear": 378,
     "dailyMinutesDown": {
       "2021-03-19": 20,
@@ -158,7 +158,7 @@
     "time": 338,
     "timeDay": 327,
     "timeWeek": 323,
-    "timeMonth": 303,
+    "timeMonth": 307,
     "timeYear": 338,
     "dailyMinutesDown": {
       "2021-03-19": 20,
@@ -179,7 +179,7 @@
     "time": 311,
     "timeDay": 329,
     "timeWeek": 315,
-    "timeMonth": 288,
+    "timeMonth": 289,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2021-03-19": 19,
@@ -236,7 +236,7 @@
     "time": 309,
     "timeDay": 312,
     "timeWeek": 275,
-    "timeMonth": 272,
+    "timeMonth": 274,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2021-03-19": 19,
@@ -257,7 +257,7 @@
     "time": 415,
     "timeDay": 367,
     "timeWeek": 331,
-    "timeMonth": 406,
+    "timeMonth": 411,
     "timeYear": 415,
     "dailyMinutesDown": {
       "2021-03-19": 18,
@@ -278,7 +278,7 @@
     "time": 353,
     "timeDay": 394,
     "timeWeek": 327,
-    "timeMonth": 307,
+    "timeMonth": 310,
     "timeYear": 353,
     "dailyMinutesDown": {
       "2021-03-09": 16
@@ -316,7 +316,7 @@
     "time": 266,
     "timeDay": 242,
     "timeWeek": 290,
-    "timeMonth": 256,
+    "timeMonth": 258,
     "timeYear": 266,
     "dailyMinutesDown": {}
   },
@@ -334,7 +334,7 @@
     "time": 295,
     "timeDay": 311,
     "timeWeek": 273,
-    "timeMonth": 271,
+    "timeMonth": 272,
     "timeYear": 295,
     "dailyMinutesDown": {}
   }
