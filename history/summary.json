@@ -27,9 +27,9 @@
     "url": "https://mining-server.azurewebsites.net/",
     "icon": "https://favicons.githubusercontent.com/mining-server.azurewebsites.net",
     "slug": "mining-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "97.80%",
+    "uptimeDay": "97.79%",
     "uptimeWeek": "99.38%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.90%",
@@ -39,6 +39,7 @@
     "timeMonth": 1085,
     "timeYear": 554,
     "dailyMinutesDown": {
+      "2021-05-01": 0,
       "2021-04-30": 32,
       "2021-04-29": 31,
       "2021-02-25": 58
